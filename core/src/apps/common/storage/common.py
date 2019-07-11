@@ -9,6 +9,7 @@ if False:
 _APP_DEVICE             = 0x01
 _APP_SLIP39             = 0x02
 _APP_SLIP39_MNEMONICS   = 0x03
+_APP_FIDO2              = 0x04
 # fmt: on
 
 _FALSE_BYTE = b"\x00"
